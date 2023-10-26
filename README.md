@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Amazon-Food-Reviews
+# Sentiment-Analysis-Amazon-Fine-Food-Reviews
 
 [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) of 568,454 food reviews Amazon users left up to October 2012.
 
