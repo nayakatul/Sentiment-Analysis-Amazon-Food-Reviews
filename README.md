@@ -12,8 +12,8 @@ To develop an accurate sentiment analysis model for Amazon food reviews using VA
 
 **Methods and Models used:**
 
-**Vader model:** To label the dataset with appropriate sentiments based on the text reviews
-**Logistic Regression:** To train the model using the labelled data and predict the sentiment of new unseen text review.
-**Random Oversampling:** To handle the class imbalance.
-**Word2Vec:** To convert review text into meaningful vector representations, enabling the model to capture semantic nuances and relationships between words.
+- **Vader model:** To label the dataset with appropriate sentiments based on the text reviews.
+- **Logistic Regression:** To train the model using the labelled data and predict the sentiment of new unseen text review.
+- **Random Oversampling:** To handle the class imbalance.
+- **Word2Vec:** To convert review text into meaningful vector representations, enabling the model to capture semantic nuances and relationships between words.
 
